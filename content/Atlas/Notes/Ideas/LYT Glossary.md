@@ -12,7 +12,7 @@ created: 2020-06-01
 ### LYT Terms
 - **[[Mental Squeeze Point]]** - The point in any endeavor where the amount of information begins to overwhelm you. Either you overcome the squeeze point, or your project gets stuck.
 - **[[MOCs Overview|MOC (Map of Content)]]**, pronounced (EM-OH-SEE) - A note that mainly has links to other notes, thus "mapping" the contents of multiple notes in your digital library. Informally, called "maps".
-- **[[Index|Home note]]** - Your Home note is your north star, navigating you to your MOCs. It keeps the entire system organized.
+- **[[index|Home note]]** - Your Home note is your north star, navigating you to your MOCs. It keeps the entire system organized.
 	- MOCs help you gather, develop, and navigate your ideas.
 - **[[Idea Emergence (defn)|Idea Emergence]]** - The process of how the ideas you encounter go from the "nothingness" to the "somethingness"—and how those ideas grow in richness, complexity, and personally meaningful value over time.
 - **Top-down Thinking** - Starting with structure and a clear destination. e.g. A folder-based framework.

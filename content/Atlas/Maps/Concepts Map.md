@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Index]]"
+  - "[[index]]"
 related: []
 created: 2016-01-01
 tags:
@@ -66,4 +66,4 @@ Activate "LYT Vision" to resurface thoughts in context. When you twirl this open
 
 ---
 
-Back to: [[Index]]
+Back to: [[index]]

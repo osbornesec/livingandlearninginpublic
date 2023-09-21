@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Index]]"
+  - "[[index]]"
 related: []
 created: 2016-06-01
 tags:

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Index]]"
+  - "[[index]]"
 related:
   - "[[Define your time-style]]"
 created: 2023-08-19

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Index]]"
+  - "[[index]]"
 created: 2020-06-01
 tags:
   - map

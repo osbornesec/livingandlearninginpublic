@@ -19,4 +19,4 @@ But first:
 If we mostly agree, then:
 
 - Go deeper into the [[Ideaverse Map]]...
-- Or go [[Index]].
+- Or go [[index]].

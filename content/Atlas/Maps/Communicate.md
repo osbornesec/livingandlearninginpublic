@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Index]]"
+  - "[[index]]"
 related:
   - "[[Add]]"
   - "[[Relate]]"
